@@ -93,5 +93,3 @@ Puedes abrir directamente el archivo [`index.html`](file:///c:/Users/USER/Docume
   npx serve .
   ```
 
-### Modo Demostración
-Si aún no has configurado tus credenciales de Supabase, la aplicación detectará el estado y cargará un conjunto de datos demo local para que puedas interactuar con la interfaz de inmediato sin errores.
